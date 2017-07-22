@@ -1,4 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/peter/Programming/ClionProjects/Audio_Driver_Visualizer
--- Configuring done
--- Generating done
--- Build files have been written to: /home/peter/Programming/ClionProjects/Audio_Driver_Visualizer/cmake-build-debug

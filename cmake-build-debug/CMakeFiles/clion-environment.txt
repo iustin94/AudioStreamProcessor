@@ -1,2 +1,0 @@
-Options: 
-CMake: 3.9.20170721-gaf970@/usr/bin/cmake
