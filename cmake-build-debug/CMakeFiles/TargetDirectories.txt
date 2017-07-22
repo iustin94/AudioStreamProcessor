@@ -1,0 +1,3 @@
+/home/jol/CLionProjects/Arduino-Audio-Driver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jol/CLionProjects/Arduino-Audio-Driver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jol/CLionProjects/Arduino-Audio-Driver/cmake-build-debug/CMakeFiles/Arduino-Audio-Driver.dir
