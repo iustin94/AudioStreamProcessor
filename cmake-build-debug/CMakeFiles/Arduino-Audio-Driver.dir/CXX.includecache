@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/jol/CLionProjects/Arduino-Audio-Driver/Arduino-Audio-Driver.cpp
+/home/peter/Programming/ClionProjects/Audio_Driver_Visualizer/Arduino-Audio-Driver.cpp
 iostream
 -
 SFML/Audio.hpp

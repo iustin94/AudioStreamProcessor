@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Arduino-Audio-Driver.dir/Arduino-Audio-Driver.cpp.o  -o Arduino-Audio-Driver -llibsfml-audio 
+/usr/bin/c++  -g   CMakeFiles/Arduino-Audio-Driver.dir/Arduino-Audio-Driver.cpp.o  -o Arduino-Audio-Driver -lsfml-audio 
